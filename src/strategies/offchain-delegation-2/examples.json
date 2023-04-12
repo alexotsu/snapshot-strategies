@@ -5,9 +5,9 @@
       "name": "offchain-delegation-2",
       "params": {
         "symbol": "TEST (delegated)",
-        "sheetId": "2PACX-1vSiB0k576wpy0jEb5y2YFDTZEoCpfF-FM9O-PdUyFFTBUaqjyArc-nbc6h0Ob6ckQxv3W0lK6QK_x0G",
+        "sheetId": "2PACX-1vTvzkPCWAWXGnQK_WkkUa76YLIXFWB4j8TeTAqoX5wxU-rknk1_oiKYlWSgj6sk-SI9RwGSPPa6XbXj",
         "gid": "0",
-        "decimals": 18
+        "decimals": 0
       }
     },
     "network": "1",
